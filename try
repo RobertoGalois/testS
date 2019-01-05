@@ -1,0 +1,8 @@
+try
+{
+  e.be_a_good_person();
+}
+catch (Exception e)
+{
+  e.print_stack_trace();
+}
